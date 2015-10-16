@@ -1,0 +1,11 @@
+.image-cropper {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 100%;
+}
+#profile-picture {
+  height: 400px;
+  width: 400px;
+}
