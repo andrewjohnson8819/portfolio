@@ -3,7 +3,8 @@
     height: 400px;
     position: relative;
     overflow: hidden;
-    border-radius: 100%;
+    border-radius: 20px;
+    /*changed radius from % to px*/
 }
 #profile-picture {
   height: 400px;
